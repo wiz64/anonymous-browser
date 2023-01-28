@@ -1,2 +1,2 @@
 # anonymous-browser
-Temporary, Anonymized Live Browser on Replit with adblocker, privacy extensions
+Temporary, Anonymized Live Web-Browser on Replit with adblocker, privacy extensions
